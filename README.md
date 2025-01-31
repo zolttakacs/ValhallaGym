@@ -1,5 +1,12 @@
 # ValhallaGym
 
-![image](https://github.com/user-attachments/assets/a0138b6b-1634-432c-8709-548277a60b75)
-![image](https://github.com/user-attachments/assets/64c284fd-7e99-4648-9296-4c84737493ae)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f5a448de-18fa-41e7-bd78-81b7b2a73e13)
+![image](https://github.com/user-attachments/assets/95b35d18-5568-46c4-9276-8caa3f495904)
+![image](https://github.com/user-attachments/assets/68c1e377-70af-4fa0-b37d-ee0cf62da3ad)
+![image](https://github.com/user-attachments/assets/20723119-f390-41de-8013-27aef52b9ee8)
+![image](https://github.com/user-attachments/assets/390b5234-48d3-496e-b813-0eedd93508e8)
+
+
+
+
+
