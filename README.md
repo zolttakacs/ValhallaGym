@@ -1,7 +1,7 @@
 # ValhallaGym Projekt
 
 # Valhalla Gym Weboldal Terv
-
+## A képek és egyéb leírásokat csak random raktam be, de azokat még átkell beszélni és azokat írjuk bele.
 ## 1. Oldalszerkezet
 
 ### Header:
@@ -54,8 +54,7 @@
 ## 3. Funkcionalitás
 - **Reszponzivitás**: A weboldal minden eszközön jól jelenjen meg (mobil, tablet, desktop).
 
-
-# A képek és egyéb leírásokat csak random raktam be, de azokat még átkell beszélni és azokat írjuk bele.
+# Weboldal
 
 ![image](https://github.com/user-attachments/assets/f5a448de-18fa-41e7-bd78-81b7b2a73e13)
 ![image](https://github.com/user-attachments/assets/95b35d18-5568-46c4-9276-8caa3f495904)
