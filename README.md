@@ -1,52 +1,59 @@
 # ValhallaGym Projekt
 
-3. Oldalszerkezet
-Header:
-Logo: A Valhalla Gym logója, viking stílusú, erőteljes betűtípussal.
-Navigációs menü:
-  Kezdőlap
-  Rólunk
-  Szolgáltatások
-  Csapat
-  Árak
-  Blog
-  Kapcsolat
+# Valhalla Gym Weboldal Terv
 
-Cselekvésre ösztönző gomb: "Csatlakozz most", 
-Hero szekció (Fő banner):
-Háttérkép: Egy erőteljes viking témájú edzőterem, súlyok, edzők és motiváló környezet.(Szürkés, fekete háttér)
+## 1. Oldalszerkezet
 
-Fő szöveg: "Üdvözlünk a Valhalla Gym-ben! Fejleszd magad a legkeményebb edzésformákban!"
-CTA (Cselekvésre ösztönző gomb): "Kezdd el most!", "Tudd meg többet!".
-Szolgáltatások szekció:
-Erőnléti edzés: Különböző edzésformák, mint erőemelés, crossfit, súlyemelés, stb.
-Csoportos órák: Spinning, jóga, funkcionális edzés, stb.
-Magánedzések: Személyre szabott edzésterv és edzésprogram.
-Egyéb szolgáltatások: Kiegészítő programok (pl. táplálkozási tanácsadás).
+### Header:
+- **Logo**: A Valhalla Gym logója, viking stílusú, erőteljes betűtípussal.
+- **Navigációs menü**:
+  - Kezdőlap
+  - Rólunk
+  - Szolgáltatások
+  - Csapat
+  - Árak
+  - Blog
+  - Kapcsolat
+- **Cselekvésre ösztönző gomb**: "Csatlakozz most"
 
+### Hero szekció (Fő banner):
+- **Háttérkép**: Egy erőteljes viking témájú edzőterem, súlyok, edzők és motiváló környezet (szürkés, fekete háttér).
+- **Fő szöveg**: "Üdvözlünk a Valhalla Gym-ben! Fejleszd magad a legkeményebb edzésformákban!"
+- **CTA (Cselekvésre ösztönző gomb)**: "Kezdd el most!", "Tudd meg többet!"
 
-Történet: A Valhalla Gym története, filozófia, küldetés.
-Edzők bemutatása: A fő edzők rövid bemutatása és szakterületük.
-Képek és videók: Képek az edzőteremről, edzésről és a közösségről.
+### Szolgáltatások szekció:
+- **Erőnléti edzés**: Különböző edzésformák, mint erőemelés, crossfit, súlyemelés, stb.
+- **Csoportos órák**: Spinning, jóga, funkcionális edzés, stb.
+- **Magánedzések**: Személyre szabott edzésterv és edzésprogram.
+- **Egyéb szolgáltatások**: Kiegészítő programok (pl. táplálkozási tanácsadás).
 
-Kapcsolat szekció:
-Elérhetőségek: Cím, telefon, e-mail.
-Kapcsolati űrlap: Lehetőség érdeklődni, kérdéseket feltenni.
-Google térkép: Az edzőterem helye.
+### Rólunk szekció:
+- **Történet**: A Valhalla Gym története, filozófia, küldetés.
+- **Edzők bemutatása**: A fő edzők rövid bemutatása és szakterületük.
+- **Képek és videók**: Képek az edzőteremről, edzésről és a közösségről.
 
-GYIK szekció:
-Gyakran Ismételt Kérdések: Kérdések a szolgáltatásokkal, árakkal,
-Footer (Lábléc):
-Közösségi média linkek: Instagram, Facebook, YouTube.
-Copyright információk: "© 2025 Valhalla Gym - Minden jog fenntartva."
-Adatvédelmi és használati feltételek: Linkek a jogi oldalakhoz.
-5. Design és stílus
-Színek: Fekete, szürke piros és bordó árnyalatok, viking szimbólumok.
-Betűtípusok: Erőteljes, tört karakterek és modern sans-serif betűtípusok.
-Szimbólumok: Viking fejdíszek, pajzsok, fegyverek, mint grafikai elemek.
-Háttérkép: Erőteljes, inspiráló.
-6. Funkcionalitás
-Reszponzivitás: A weboldal minden eszközön jól jelenjen meg (mobil, tablet, desktop)
+### Kapcsolat szekció:
+- **Elérhetőségek**: Cím, telefon, e-mail.
+- **Kapcsolati űrlap**: Lehetőség érdeklődni, kérdéseket feltenni.
+- **Google térkép**: Az edzőterem helye.
+
+### GYIK szekció:
+- **Gyakran Ismételt Kérdések**: Kérdések a szolgáltatásokkal, árakkal kapcsolatban.
+
+### Footer (Lábléc):
+- **Közösségi média linkek**: Instagram, Facebook, YouTube.
+- **Copyright információk**: "© 2025 Valhalla Gym - Minden jog fenntartva."
+- **Adatvédelmi és használati feltételek**: Linkek a jogi oldalakhoz.
+
+## 2. Design és stílus
+- **Színek**: Fekete, szürke, piros és bordó árnyalatok, viking szimbólumok.
+- **Betűtípusok**: Erőteljes, tört karakterek és modern sans-serif betűtípusok.
+- **Szimbólumok**: Viking fejdíszek, pajzsok, fegyverek, mint grafikai elemek.
+- **Háttérkép**: Erőteljes, inspiráló.
+
+## 3. Funkcionalitás
+- **Reszponzivitás**: A weboldal minden eszközön jól jelenjen meg (mobil, tablet, desktop).
+
 
 # A képek és egyéb leírásokat csak random raktam be, de azokat még átkell beszélni és azokat írjuk bele.
 
