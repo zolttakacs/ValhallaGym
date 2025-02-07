@@ -74,7 +74,7 @@
 ![image](https://github.com/user-attachments/assets/0d10fd54-2af9-4355-a047-4d30062a3de1)
 
 
-
+### Telefon/Tablet nézet fejlesztés alatt:..
 
 
 
