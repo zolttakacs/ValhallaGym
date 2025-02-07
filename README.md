@@ -1,4 +1,8 @@
-# ValhallaGym Projekt
+# ValhallaGym Projekt 
+
+## Elérhetőségeim: E-mail: zoltantakacs2415@gmail.com
+##                 Tel: 70/ 608 6240
+
 
 # Valhalla Gym Weboldal Terv 
 ## A képek és egyéb leírásokat csak random raktam be, de azokat még átkell beszélni és azokat írjuk bele.
