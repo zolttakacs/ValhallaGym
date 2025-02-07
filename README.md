@@ -1,6 +1,6 @@
 # ValhallaGym Projekt
 
-# Valhalla Gym Weboldal Terv
+# Valhalla Gym Weboldal Terv 
 ## A képek és egyéb leírásokat csak random raktam be, de azokat még átkell beszélni és azokat írjuk bele.
 ## 1. Oldalszerkezet
 
@@ -14,6 +14,9 @@
   - Árak
   - Blog
   - Kapcsolat
+  - Nyitvatartás
+  - Gyik
+  - Házirend
 - **Cselekvésre ösztönző gomb**: "Csatlakozz most"
 
 ### Hero szekció (Fő banner):
